@@ -3,9 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Currency Formatter/Java Currency Formatter.iml" filepath="$PROJECT_DIR$/Java Currency Formatter/Java Currency Formatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Datatypes/Java Datatypes.iml" filepath="$PROJECT_DIR$/Java Datatypes/Java Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Date and Time/Java Date and Time.iml" filepath="$PROJECT_DIR$/Java Date and Time/Java Date and Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java End-of-file/Java End-of-file.iml" filepath="$PROJECT_DIR$/Java End-of-file/Java End-of-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java If-Else/Java If-Else.iml" filepath="$PROJECT_DIR$/Java If-Else/Java If-Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Int to String/Java Int to String.iml" filepath="$PROJECT_DIR$/Java Int to String/Java Int to String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Loops I/Java Loops I.iml" filepath="$PROJECT_DIR$/Java Loops I/Java Loops I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Loops II/Java Loops II.iml" filepath="$PROJECT_DIR$/Java Loops II/Java Loops II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Output Formatting/Java Output Formatting.iml" filepath="$PROJECT_DIR$/Java Output Formatting/Java Output Formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Static Initializer Block/Java Static Initializer Block.iml" filepath="$PROJECT_DIR$/Java Static Initializer Block/Java Static Initializer Block.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Stdin and Stdout I/Java Stdin and Stdout I.iml" filepath="$PROJECT_DIR$/Java Stdin and Stdout I/Java Stdin and Stdout I.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Stdin and Stdout II/Java Stdin and Stdout II.iml" filepath="$PROJECT_DIR$/Java Stdin and Stdout II/Java Stdin and Stdout II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java String Reverse/Java String Reverse.iml" filepath="$PROJECT_DIR$/Java String Reverse/Java String Reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Strings Introduction/Java Strings Introduction.iml" filepath="$PROJECT_DIR$/Java Strings Introduction/Java Strings Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Substring/Java Substring.iml" filepath="$PROJECT_DIR$/Java Substring/Java Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Substring Comparisons/Java Substring Comparisons.iml" filepath="$PROJECT_DIR$/Java Substring Comparisons/Java Substring Comparisons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Welcome to Java!/Welcome to Java!.iml" filepath="$PROJECT_DIR$/Welcome to Java!/Welcome to Java!.iml" />
     </modules>
   </component>

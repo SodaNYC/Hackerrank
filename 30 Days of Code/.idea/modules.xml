@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/30 Days of Code.iml" filepath="$PROJECT_DIR$/.idea/30 Days of Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 0: Hello, World./Day 0: Hello, World..iml" filepath="$PROJECT_DIR$/Day 0: Hello, World./Day 0: Hello, World..iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1: Data Types/Day 1: Data Types.iml" filepath="$PROJECT_DIR$/Day 1: Data Types/Day 1: Data Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2: Operators/Day 2: Operators.iml" filepath="$PROJECT_DIR$/Day 2: Operators/Day 2: Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3: Intro to Conditional Statements/Day 3: Intro to Conditional Statements.iml" filepath="$PROJECT_DIR$/Day 3: Intro to Conditional Statements/Day 3: Intro to Conditional Statements.iml" />
     </modules>
   </component>
 </project>
