@@ -19,7 +19,7 @@ This is the repository to store all the solutions of the problems I did on the H
       $ git push origin master
       ```
 * How to prevent git from uploading .iml files into the repository?
-1. Add *.iml directory to the list of ignored files
+  1. Add *.iml directory to the list of ignored files
       ```
       $ echo '*.iml' >> .gitignore
       ```
