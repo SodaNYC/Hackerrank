@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5f2edfe5-71a4-44c8-b454-d14f6dd66d57" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30 Days of Code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../30 Days of Code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1: Functions/Recursion: Fibonacci Numbers/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,21 +55,6 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,6 +71,8 @@
       <workItem from="1601486893603" duration="449000" />
       <workItem from="1601531787951" duration="241000" />
       <workItem from="1601534248834" duration="152000" />
+      <workItem from="1601535090962" duration="18000" />
+      <workItem from="1601535115073" duration="5000" />
     </task>
     <servers />
   </component>
