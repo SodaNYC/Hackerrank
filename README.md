@@ -18,3 +18,18 @@ This is the repository to store all the solutions of the problems I did on the H
       $ git commit -m 'untracking .idea'
       $ git push origin master
       ```
+* How to prevent git from uploading .iml files into the repository?
+1. Add *.iml directory to the list of ignored files
+      ```
+      $ echo '*.iml' >> .gitignore
+      ```
+  2. Remove all the .iml files from the repository
+      ```
+      $ git rm -r --cached */*.iml
+      ```
+  3. Send the change forward
+      ```
+      $ git add .gitignore
+      $ git commit -m 'untracking .iml'
+      $ git push origin master
+      ```
