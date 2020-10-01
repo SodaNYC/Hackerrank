@@ -1,0 +1,3 @@
+Difference Between Class Variables And Instance Variables In Java:
+
+https://javaconceptoftheday.com/class-variables-and-instance-variables-in-java/#:~:text=Difference%20Between%20Class%20Variables%20And%20Instance%20Variables%20In%20Java,-pramodbablad%20July%2024&text=While%20methods%20represent%20the%20behavior,the%20state%20of%20an%20object.&text=Class%20variables%20are%20common%20to,are%20specific%20to%20an%20object.

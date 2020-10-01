@@ -1,0 +1,2 @@
+1. Enhanced for loops    https://www.youtube.com/watch?v=pL0I9nGph7c
+2. Algorithms: Recursion https://www.youtube.com/watch?v=KEEKn7Me-ms&feature=emb_logo
