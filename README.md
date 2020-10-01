@@ -23,9 +23,9 @@ This is the repository to store all the solutions of the problems I did on the H
       ```
       $ echo '*.iml' >> .gitignore
       ```
-  2. Remove all the .iml files from the repository
+  2. Remove the directory only from the repository
       ```
-      $ git rm -r --cached */*.iml
+      $ git rm -r --cached *.iml
       ```
   3. Send the change forward
       ```
