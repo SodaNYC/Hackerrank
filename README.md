@@ -2,6 +2,8 @@
 
 This is the repository to store all the solutions of the problems I did on the Hackerrank website. Keep working hard, you got this!
 
+My Hackerrank profile: [Hackerrank](https://www.hackerrank.com/SodaNYC)
+
 ### Q&A
 * When I use git command to upload my new files to this repository, the .idea folders got uploaded as well, how can I delete them?
   1. Add .idea directory to the list of ignored files
