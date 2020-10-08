@@ -1,0 +1,3 @@
+Input: echo "Greetings $USER, your current working directory is $PWD"
+
+Output: Greetings haodong, your current working directory is /Users/haodong/Hackerrank/Linux Shell/Let's Echo

@@ -1,0 +1,1 @@
+How to find a random number between 0 and 4: Math.abs(rand.nextInt()) % 5

@@ -1,0 +1,4 @@
+Map(String,Boolean> shoppingList = new HashMap<String,Boolean>();
+    shoppingList.put("Ham", true);
+    shoppingList.put("Bread", Boolean.TRUE);
+both ways work
